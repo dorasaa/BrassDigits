@@ -1,0 +1,15 @@
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\bin\Debug\BrassDigits.Common.Tests.dll
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\bin\Debug\BrassDigits.Common.Tests.pdb
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\bin\Debug\BrassDigits.Common.dll
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\bin\Debug\nunit.framework.dll
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\bin\Debug\nunit.core.interfaces.dll
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\bin\Debug\nunit.core.dll
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\bin\Debug\Mono.Cecil.dll
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\bin\Debug\nunit.util.dll
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\bin\Debug\Mono.Cecil.Rocks.dll
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\bin\Debug\BrassDigits.Common.pdb
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\bin\Debug\nunit.framework.xml
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\obj\Debug\BrassDigits.Common.Tests.csprojResolveAssemblyReference.cache
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\obj\Debug\BrassDigits.Common.Tests.dll
+c:\Projects\BrassDigits\BrassDigits.Common.Tests\obj\Debug\BrassDigits.Common.Tests.pdb

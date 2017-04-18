@@ -1,0 +1,8 @@
+c:\Projects\BrassDigits\BrassDigits\bin\Debug\BrassDigits.exe.config
+c:\Projects\BrassDigits\BrassDigits\bin\Debug\BrassDigits.exe
+c:\Projects\BrassDigits\BrassDigits\bin\Debug\BrassDigits.pdb
+c:\Projects\BrassDigits\BrassDigits\obj\Debug\BrassDigits.csprojResolveAssemblyReference.cache
+c:\Projects\BrassDigits\BrassDigits\obj\Debug\BrassDigits.exe
+c:\Projects\BrassDigits\BrassDigits\obj\Debug\BrassDigits.pdb
+c:\Projects\BrassDigits\BrassDigits\bin\Debug\BrassDigits.Common.dll
+c:\Projects\BrassDigits\BrassDigits\bin\Debug\BrassDigits.Common.pdb

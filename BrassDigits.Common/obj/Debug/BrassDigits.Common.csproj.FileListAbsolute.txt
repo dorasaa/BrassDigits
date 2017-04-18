@@ -1,0 +1,4 @@
+c:\Projects\BrassDigits\BrassDigits.Common\bin\Debug\BrassDigits.Common.dll
+c:\Projects\BrassDigits\BrassDigits.Common\bin\Debug\BrassDigits.Common.pdb
+c:\Projects\BrassDigits\BrassDigits.Common\obj\Debug\BrassDigits.Common.dll
+c:\Projects\BrassDigits\BrassDigits.Common\obj\Debug\BrassDigits.Common.pdb
